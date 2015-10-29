@@ -9,7 +9,6 @@ font-family: "Times New Roman", Times, serif;
 font-size:40px;
 }
 #me{
-background:#C0C0C0;
 text-align: center;
 font-size:30px;
 font-style: italic;
