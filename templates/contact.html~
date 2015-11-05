@@ -1,0 +1,23 @@
+<html>
+
+<head> 
+	<link rel="stylesheet" href="{{url_for('static', filename='styles.css'}}">
+	<title>contact me</title>
+</head>
+
+<body id="font">
+<h1>About Me</h1>
+
+<ul class="items">
+	<li><a href="{{url_for('main')}}"> Home Page</a></li>
+	<li><a href="{{url_for('about')}}"> About Me</a></li>
+	<li><a href="{{url_for('contact')}}"> Contact Me</a></li>
+</ul>
+
+<p>  you can contact me by many ways:<br>
+Gmail: tala.ab29@gmail.com<br>
+E-mail: talla_1999@hotmail.com<br>
+Facebook: tala abuahmad </p>
+
+</body>
+</html>

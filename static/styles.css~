@@ -6,13 +6,12 @@ font-style: italic;
 font-family: "Times New Roman", Times, serif;
 }
 .items {
-font-size:40px;
-}
-#me{
-background:#C0C0C0;
-text-align: center;
 font-size:30px;
+text-align: center
 font-style: italic;
 font-family: "Times New Roman", Times, serif;
 }
+#1{ display: inline;}
+
+
 
